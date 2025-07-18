@@ -2,8 +2,8 @@
 Developing a Jupyter Notebook. My objective is to perform various tasks related to data processing, error handling, and file handling using Python.
 
 #### How to access code
-- The python code base is stored inside a Jupyter notebook called `SalaryFunction.ipynb`
-- The R codebase is written inside a Jupyter notebook called `SalaryFunctionR.ipynb`
+- The python code base is stored inside a Jupyter notebook called `salary_info.ipynb`
+- The R codebase is written inside a Jupyter notebook called `unzip_file.R`
 
 
 ### How to use python code
